@@ -53,12 +53,12 @@ The dashboard is designed to help answer questions such as:
 
 ### Sales Opportunities Overview
 
-[page1.bmp](https://github.com/user-attachments/files/31966192/page1.bmp)
+<img width="1346" height="757" alt="Image" src="https://github.com/user-attachments/assets/c216bf29-3aaa-4a7c-8ab1-4f11fb7685bf" />
 
 
 ### Sales Persons Detailes
 
-[page2.bmp](https://github.com/user-attachments/files/31966903/page2.bmp)
+<img width="1345" height="760" alt="Image" src="https://github.com/user-attachments/assets/984133a9-c695-4b32-9cc0-41505518bdda" />
 
 
 ---
